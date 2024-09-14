@@ -5,7 +5,7 @@
 //-----------------------------------Function Declaration----------------------------------
 void simple_iteration_method(double X)
 {
-int iteration = 1;                                      // Initialize the iteration counter
+    int iteration = 1;                                  // Initialize the iteration counter
     while (true)
     {
         std::cout << std::fixed << std::setprecision(16) 
