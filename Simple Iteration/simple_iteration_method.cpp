@@ -33,7 +33,7 @@ int main(int argc, char **argv)
     double X;
     cout << "Enter value for X: ";                 // Prompt user for the initial value of X
     cin >> X;                                      // Read the value of X from standard input
-    simple_iteration_method(X);                         // Call the iteration method with the initial value
+    simple_iteration_method(X);                    // Call the iteration method with the initial value
 
     return 0;
 }
